@@ -1,4 +1,4 @@
-# itmo_llp-lab3 (BEBRA-DB + BEBRA-SQL)
+# BEBRA-DB + BEBRA-SQL
 
 Brief Example of Basic Relational Allocation. База данных с клиент-серверным взаимодействием.
 
