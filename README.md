@@ -1,6 +1,6 @@
-# BEBRA-DB + BEBRA-SQL
+# Academic relational database
 
-Brief Example of Basic Relational Allocation. База данных с клиент-серверным взаимодействием.
+База данных с клиент-серверным взаимодействием.
 
 ### Build system
 
